@@ -10,7 +10,7 @@ I am a passionate developer focused on **Mobile App Development**, **Artificial 
 
 - 🔭 I’m currently working on **Next-Gen AI Applications**
 - 🌱 I’m currently learning **C++ & Secure Mobile Architecture**
-- 📫 How to reach me: **[LINKEDIN LINKINI BURAYA YAPIŞTIR]**
+- 📫 How to reach me: **https://www.linkedin.com/in/cemal-batuhan-ba%C5%9F-a1aa34333/**
 
 **🛠 Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
