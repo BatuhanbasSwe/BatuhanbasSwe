@@ -24,3 +24,8 @@ Python · C · C++ · TypeScript · PyTorch · Hugging Face · scikit-learn · R
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/cemal-batuhan-bas/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BatuhanbasSwe/BatuhanbasSwe/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/BatuhanbasSwe/BatuhanbasSwe/output/github-snake.svg" />
+</picture>
