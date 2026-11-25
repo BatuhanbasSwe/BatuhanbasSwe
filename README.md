@@ -25,6 +25,17 @@ Python · C · C++ · TypeScript · PyTorch · Hugging Face · scikit-learn · R
 
 [LinkedIn](https://www.linkedin.com/in/cemal-batuhan-bas/)
 
+### GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BatuhanbasSwe&show_icons=true&hide_rank=true&hide_border=true&count_private=true&hide=issues&theme=github_dark" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BatuhanbasSwe&show_icons=true&hide_rank=true&hide_border=true&count_private=true&hide=issues" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BatuhanbasSwe&hide_border=true&theme=github-dark-blue" />
+  <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=BatuhanbasSwe&hide_border=true" />
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BatuhanbasSwe/BatuhanbasSwe/output/github-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/BatuhanbasSwe/BatuhanbasSwe/output/github-snake.svg" />
